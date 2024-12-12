@@ -1,0 +1,26 @@
+﻿  testHash.cpp
+C:\Users\sooae\Desktop\CSE232 DataStructures\96%\cse232-lab13-hash\testList.h(135,17): warning C4312: 'type cast': conversion from 'unsigned int' to 'custom::list<int>::Node *' of greater size
+  (compiling source file 'testHash.cpp')
+  
+C:\Users\sooae\Desktop\CSE232 DataStructures\96%\cse232-lab13-hash\testList.h(136,17): warning C4312: 'type cast': conversion from 'unsigned int' to 'custom::list<int>::Node *' of greater size
+  (compiling source file 'testHash.cpp')
+  
+C:\Users\sooae\Desktop\CSE232 DataStructures\96%\cse232-lab13-hash\testList.h(149,17): warning C4312: 'type cast': conversion from 'unsigned int' to 'custom::list<int>::Node *' of greater size
+  (compiling source file 'testHash.cpp')
+  
+C:\Users\sooae\Desktop\CSE232 DataStructures\96%\cse232-lab13-hash\testList.h(150,17): warning C4312: 'type cast': conversion from 'unsigned int' to 'custom::list<int>::Node *' of greater size
+  (compiling source file 'testHash.cpp')
+  
+C:\Users\sooae\Desktop\CSE232 DataStructures\96%\cse232-lab13-hash\testList.h(163,17): warning C4312: 'type cast': conversion from 'unsigned int' to 'custom::list<int>::Node *' of greater size
+  (compiling source file 'testHash.cpp')
+  
+C:\Users\sooae\Desktop\CSE232 DataStructures\96%\cse232-lab13-hash\testList.h(164,17): warning C4312: 'type cast': conversion from 'unsigned int' to 'custom::list<int>::Node *' of greater size
+  (compiling source file 'testHash.cpp')
+  
+C:\Users\sooae\Desktop\CSE232 DataStructures\96%\cse232-lab13-hash\testList.h(202,17): warning C4312: 'type cast': conversion from 'unsigned int' to 'custom::list<int>::Node *' of greater size
+  (compiling source file 'testHash.cpp')
+  
+C:\Users\sooae\Desktop\CSE232 DataStructures\96%\cse232-lab13-hash\testList.h(203,17): warning C4312: 'type cast': conversion from 'unsigned int' to 'custom::list<int>::Node *' of greater size
+  (compiling source file 'testHash.cpp')
+  
+  LabHash.vcxproj -> C:\Users\sooae\Desktop\CSE232 DataStructures\96%\cse232-lab13-hash\x64\Debug\LabHash.exe
